@@ -1,0 +1,27 @@
+# Database files
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Compiled Java files
+out/
+out-test/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Windows files
+Thumbs.db
+.DS_Store
